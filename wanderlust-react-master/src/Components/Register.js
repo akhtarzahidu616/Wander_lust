@@ -35,5 +35,6 @@ class Register extends Component {
         );
     }
 }//pushing 1st tym
+//pushing directly from github
 
 export default Register;
