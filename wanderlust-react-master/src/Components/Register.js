@@ -35,5 +35,6 @@ class Register extends Component {
         );
     }
 }//pushing 1st tym
+//without puling m trying pushing
 
 export default Register;
